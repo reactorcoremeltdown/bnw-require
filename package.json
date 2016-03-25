@@ -1,0 +1,8 @@
+{
+  "name": "bnw-require",
+  "version": "0.0.1",
+  "description": "require(), but from a bnweet",
+  "dependencies": {
+    "sync-request": "3.0.0"
+  }
+}
